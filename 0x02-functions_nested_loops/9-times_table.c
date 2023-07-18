@@ -5,7 +5,7 @@
  * Return: empty output
  */
 
-void times_tables(void)
+void times_table(void)
 {
 	int x, y, z, u, d;
 
@@ -36,4 +36,4 @@ void times_tables(void)
 	}
 	_putchar('\n');
 	}
-}
+}i
