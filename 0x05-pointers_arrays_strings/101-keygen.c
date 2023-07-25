@@ -4,7 +4,7 @@
 
 /**
  * main - Generates random valid passwords for the prog
- * Return: Always 0
+ * Returns: Always 0
  */
 
 int main(void)
