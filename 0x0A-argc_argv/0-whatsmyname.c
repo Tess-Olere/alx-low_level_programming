@@ -3,9 +3,9 @@
 
 /**
  * main - Prints its name
- * @argv: The argument vector
  * @argc: The argument count
- * Return: Always 0
+ * @argv: The argument vector
+ * Return: Always zero
  */
 
 int main(int argc, char *argv[])
